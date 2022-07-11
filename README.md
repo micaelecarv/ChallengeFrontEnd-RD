@@ -32,8 +32,9 @@ Você pode visualizar o layout dos projeto através do link abaixo. É necessár
 ##🔋 Próximos Passos
 - Refatoração do código para agrupar propriedades que se repetiram ao longo do código, visando melhorar a aparência e performance;
 - Implementação de tags HTML que melhorem a acessibilidade utilizando de boas práticas;
-- Adicionar tags que melhorem o SEO da página nas páginas de busca do Google;
+- Adicionar tags que melhorem o SEO da página nos mecanismos de busca do Google;
 - Adicionar testes unitários com JEST; 
+- Adicionar interação em alguns elementos da página para torná-la mais dinâmica;
 
 ## 📄 Licença
 
