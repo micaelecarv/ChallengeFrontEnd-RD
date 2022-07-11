@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout dos projeto através do link abaixo. É necessário ter conta no [Figma](http://figma.com/) para acessá-los.
 
-- [LandingPage](https://www.figma.com/file/heOszg42LP1K070IiLXiLV/Teste---Vaga?node-id=0%3A1)
+- [FIGMA](https://www.figma.com/file/heOszg42LP1K070IiLXiLV/Teste---Vaga?node-id=0%3A1)
 
 ## 🚀 Como executar
 
