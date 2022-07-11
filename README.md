@@ -29,7 +29,8 @@ Você pode visualizar o layout dos projeto através do link abaixo. É necessár
 - Instale as dependências com `npm install`
 - Use a extensão "Live Server" no Visual Studio Code para rodar o projeto.
 
-##🔋 Próximos Passos
+## 🔋 Próximos Passos
+
 - Refatoração do código para agrupar propriedades que se repetiram ao longo do código, visando melhorar a aparência e performance;
 - Implementação de tags HTML que melhorem a acessibilidade utilizando de boas práticas;
 - Adicionar tags que melhorem o SEO da página nos mecanismos de busca do Google;
