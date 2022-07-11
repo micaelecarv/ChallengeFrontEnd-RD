@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Bootstrap](https://getbootstrap.com/)
 
 Para acessá-lo, é só clicar no link abaixo:
-- [Landing Page](https://github.com/micaelecarv/ChallengeFrontEnd-RD)
+- [Landing Page](https://rdstationchallenge.netlify.app/)
 
 ## 🔖 Layouts
 
