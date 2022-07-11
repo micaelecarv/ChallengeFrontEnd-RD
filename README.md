@@ -1,4 +1,4 @@
-# ChallengeFrontEnd-RD
+# Challenge Front-End RD Station
 
 Esta aplicação faz parte do desafio proposto pela RD Station em uma das etapas do processo seletivo para uma vaga de Front-End no time de Marketing. 
 
