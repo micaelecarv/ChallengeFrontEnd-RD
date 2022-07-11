@@ -1,4 +1,4 @@
-# ChallengeFrontEnd-RD
+# Challenge Front-End RD Station
 
 Esta aplicação faz parte do desafio proposto pela RD Station em uma das etapas do processo seletivo para uma vaga de Front-End no time de Marketing. 
 
@@ -14,6 +14,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [Bootstrap](https://getbootstrap.com/)
 
+Para acessá-lo, é só clicar no link abaixo:
+- [Landing Page](https://github.com/micaelecarv/ChallengeFrontEnd-RD)
+
 ## 🔖 Layouts
 
 Você pode visualizar o layout dos projeto através do link abaixo. É necessário ter conta no [Figma](http://figma.com/) para acessá-los.
@@ -25,6 +28,13 @@ Você pode visualizar o layout dos projeto através do link abaixo. É necessár
 - Clone o repositório
 - Instale as dependências com `npm install`
 - Use a extensão "Live Server" no Visual Studio Code para rodar o projeto.
+
+##🔋 Próximos Passos
+- Refatoração do código para agrupar propriedades que se repetiram ao longo do código, visando melhorar a aparência e performance;
+- Implementação de tags HTML que melhorem a acessibilidade utilizando de boas práticas;
+- Adicionar tags que melhorem o SEO da página nos mecanismos de busca do Google;
+- Adicionar testes unitários com JEST; 
+- Adicionar interação em alguns elementos da página para torná-la mais dinâmica;
 
 ## 📄 Licença
 
